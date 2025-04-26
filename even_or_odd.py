@@ -9,6 +9,6 @@ def check_even_odd(number):
     else:
         return "Odd"
 
-# Example usage
-print(check_even_odd(10))  # Output: Even
-print(check_even_odd(7))   # Output: Odd
+
+print(check_even_odd(10))  
+print(check_even_odd(7))   
