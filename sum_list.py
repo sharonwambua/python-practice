@@ -9,5 +9,5 @@ def sum_list(numbers):
         total += num
     return total
 
-# Example usage
-print(sum_list([1, 2, 3, 4, 5]))  # Output: 15
+
+print(sum_list([1, 2, 3, 4, 5])) 
